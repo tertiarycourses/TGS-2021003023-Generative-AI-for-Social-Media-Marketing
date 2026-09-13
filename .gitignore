@@ -13,6 +13,7 @@ courseware/source_topics.tsv
 courseware/assets/
 courseware/QA_REPORT.md
 courseware/SOURCE_REGISTER.md
+courseware/SLIDE_INVENTORY.csv
 **/archive/
 **/__pycache__/
 *.pem

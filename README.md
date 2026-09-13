@@ -9,7 +9,7 @@ Build a social media campaign from evidence-backed planning and platform selecti
 | Duration | 2 days / 16 hours |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-generative-ai-for-social-media-marketing.html) |
 | Funding | Up to 70% WSQ funding, subject to eligibility and terms on the current course page. |
-| Package version | v1.0, 13 Sep 2026 |
+| Package version | v1.1, 13 Sep 2026 |
 
 ## About the course
 
@@ -44,6 +44,6 @@ Each lab contains a detailed guide and printable PDF, synthetic CSV data, an edi
 
 ## Public package and distribution
 
-The `courseware/` folder contains the current editable PowerPoint and PDF slides, Learner Guide and Lesson Plan. The lab folders provide self-contained practice materials. Candidate assessments and trainer-only answer keys are distributed through controlled course channels and are excluded from this public repository; source ebooks, legacy files, build scripts and credentials are also excluded.
+The `courseware/` folder contains the current editable PowerPoint and PDF slides, Learner Guide (DOCX, PDF and Markdown) and Lesson Plan. The lab folders provide self-contained practice materials. Candidate assessments and trainer-only answer keys are distributed through controlled course channels and are excluded from this public repository; source ebooks, legacy files, build scripts and credentials are also excluded.
 
 Course provided by **Tertiary Infotech Academy Pte Ltd**. Register through the [official course page](https://www.tertiarycourses.com.sg/wsq-generative-ai-for-social-media-marketing.html).

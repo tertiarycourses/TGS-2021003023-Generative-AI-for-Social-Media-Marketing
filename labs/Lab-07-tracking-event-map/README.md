@@ -1,6 +1,6 @@
 # Lab 07: Tracking event map → Frequency and fatigue
 
-TGS-2021003023 • v1.0 • Synthetic teaching scenario
+TGS-2021003023 • v1.1 • Synthetic teaching scenario
 
 ## Scenario
 Harbour & Grove is a fictional Singapore home-goods SME launching a reusable desk organiser. The retail price is S$39; estimated contribution margin is S$14 per order. No real customer or platform data is included.
